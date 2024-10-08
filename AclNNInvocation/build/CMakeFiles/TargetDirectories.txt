@@ -1,0 +1,7 @@
+/home/HwHiAiUser/Desktop/AclNNInvocation/build/CMakeFiles/execute_mish_op.dir
+/home/HwHiAiUser/Desktop/AclNNInvocation/build/CMakeFiles/edit_cache.dir
+/home/HwHiAiUser/Desktop/AclNNInvocation/build/CMakeFiles/rebuild_cache.dir
+/home/HwHiAiUser/Desktop/AclNNInvocation/build/CMakeFiles/list_install_components.dir
+/home/HwHiAiUser/Desktop/AclNNInvocation/build/CMakeFiles/install.dir
+/home/HwHiAiUser/Desktop/AclNNInvocation/build/CMakeFiles/install/local.dir
+/home/HwHiAiUser/Desktop/AclNNInvocation/build/CMakeFiles/install/strip.dir
